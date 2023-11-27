@@ -1,0 +1,7 @@
+{
+  "name": "bcr_dashboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
